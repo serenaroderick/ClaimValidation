@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(22, 22, 22);
+    color: white;
+    font-family: 'Nunito';
+}
+
+textarea {
+    width: 1000px;
+    height: 700px;
+    background-color: black;
+    overflow: scroll;
+    color: white;
+    margin: 50px;
+}
+
+button {
+    margin-left: 50px;
+    background-color: rgb(10, 221, 105);
+    font-family: 'Nunito';
+    font-weight: bold;
+}
+
+h1 {
+    margin-left: 50px;
+    margin-top: 50px;
+}
